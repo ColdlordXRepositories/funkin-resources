@@ -102,7 +102,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Week 7.
+- [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) - The original open source game by The Funkin' Crew. Last updated for Weekend 1, which includes new modding tools, such as the new chart editor.
 
 ### Engines and Forks
 
